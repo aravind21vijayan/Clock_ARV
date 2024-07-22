@@ -1,0 +1,28 @@
+h1{
+    text-align: center;
+    color: aliceblue;
+}
+
+body{
+    background-color: black;
+}
+#time{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    font-size: 200px;
+    height:200px;
+    width:1000px;
+    font-family: 'Segment7Standard';
+    font-weight: normal;
+    color: green;
+    text-align: center;
+
+}
+
+
+#time:hover{
+    box-shadow: 10px 10px 12px 5px #195d1b;
+}
+
